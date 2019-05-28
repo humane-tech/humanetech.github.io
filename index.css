@@ -4,7 +4,8 @@ body {
 }
 
 #question {
-  font-size: 32px;
+  font-size: 64px;
   color: black;
   text-align: center;
+  padding-top: 20%;
 }
