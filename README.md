@@ -1,1 +1,0 @@
-# humanetech.github.io
