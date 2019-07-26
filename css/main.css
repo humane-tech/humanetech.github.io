@@ -115,6 +115,8 @@ p a:hover, .link:hover, .links-02__link:hover, .links-04__link:hover, .links-05_
 pre {
   line-height: 1.5; }
 
+
+
 .heading, .text--04__big_text {
   font-size: 2em; }
   @media (max-width: 768px) {
